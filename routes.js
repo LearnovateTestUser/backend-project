@@ -2,3 +2,4 @@ console.log("Routes loaded");
 console.log("User route initialized");
 console.log("Payment route added");
 console.log("Order route initialized");
+console.log("Orders API integrated");
