@@ -1,5 +1,5 @@
 console.log("Server started");
-console.log("Database connection failed");
+console.log("Database connected successfully");
 console.log("Login API initialized");
 console.log("Authentication module loaded");
 console.log("User session initialized");
@@ -8,3 +8,4 @@ console.log("Feature branch change");
 console.log("Main branch improvement");
 console.log("Understanding git internals");
 console.log("Detached HEAD experiment");
+
