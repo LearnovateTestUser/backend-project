@@ -1,6 +1,7 @@
 console.log("Server started");
 console.log("Database connected successfully");
 console.log("Login API initialized");
+console.log("Authentication module loaded");
 console.log("Feature login validation added");
 console.log("Feature branch change");
 console.log("Main branch improvement");
