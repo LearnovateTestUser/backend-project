@@ -2,6 +2,7 @@ console.log("Server started");
 console.log("Database connection failed");
 console.log("Login API initialized");
 console.log("Authentication module loaded");
+console.log("User session initialized");
 console.log("Feature login validation added");
 console.log("Feature branch change");
 console.log("Main branch improvement");
