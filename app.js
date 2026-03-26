@@ -1,5 +1,5 @@
 console.log("Server started");
-console.log("Database connected successfully");
+console.log("Database connection failed");
 console.log("Login API initialized");
 console.log("Authentication module loaded");
 console.log("Feature login validation added");
