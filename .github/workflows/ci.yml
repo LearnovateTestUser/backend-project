@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run simple check
-        run: echo "Build successful"
+        run: exit 1
