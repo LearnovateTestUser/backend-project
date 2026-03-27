@@ -6,3 +6,4 @@ console.log("Orders API integrated");
 console.log("Payment API updated successfully");
 console.log("Profile route initialized");
 console.log("Profile API initialize done");
+console.log("Hotfix: payment route issue fixed");
