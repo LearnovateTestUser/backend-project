@@ -7,3 +7,4 @@ console.log("Payment API updated successfully");
 console.log("Profile route initialized");
 console.log("Profile API initialize done");
 console.log("Hotfix: profile API issue resolved in v1.0");
+console.log("Fix: login validation issue resolved");
