@@ -26,3 +26,6 @@ const users = [
 ];
 
 console.log(filterUsers(users, "mail", "admin"));
+console.log(filterUsers(users, "mail", "user"));
+console.log(filterUsers(users, "", "admin"));
+
