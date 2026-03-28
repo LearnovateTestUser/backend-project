@@ -1,4 +1,6 @@
 function searchUsers(users, keyword) {
+    if (!keyword) return [];
+
     return users.filter(user =>
         user.name.toLowerCase().includes(keyword.toLowerCase())
     );
