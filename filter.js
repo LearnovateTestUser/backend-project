@@ -1,5 +1,10 @@
+function isValidKeyword(keyword) {
+    return keyword && keyword.trim() !== "";
+}
+
 function filterUsers(users, keyword) {
-    if (!keyword) return [];
+    if (!isValidKeyword(keyword)) return [];
+
     return users.filter(user =>
         user.email.toLowerCase().includes(keyword.toLowerCase())
     );
