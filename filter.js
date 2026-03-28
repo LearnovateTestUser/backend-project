@@ -1,4 +1,5 @@
 function filterUsers(users, keyword) {
+    if (!keyword) return [];
     return users.filter(user =>
         user.email.toLowerCase().includes(keyword.toLowerCase())
     );
